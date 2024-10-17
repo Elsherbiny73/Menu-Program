@@ -1,0 +1,11 @@
+/home/elsherbiny/Downloads/Menu/ClassLibrary1/bin/Debug/net8.0/ClassLibrary1.deps.json
+/home/elsherbiny/Downloads/Menu/ClassLibrary1/bin/Debug/net8.0/ClassLibrary1.dll
+/home/elsherbiny/Downloads/Menu/ClassLibrary1/bin/Debug/net8.0/ClassLibrary1.pdb
+/home/elsherbiny/Downloads/Menu/ClassLibrary1/obj/Debug/net8.0/ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+/home/elsherbiny/Downloads/Menu/ClassLibrary1/obj/Debug/net8.0/ClassLibrary1.AssemblyInfoInputs.cache
+/home/elsherbiny/Downloads/Menu/ClassLibrary1/obj/Debug/net8.0/ClassLibrary1.AssemblyInfo.cs
+/home/elsherbiny/Downloads/Menu/ClassLibrary1/obj/Debug/net8.0/ClassLibrary1.csproj.CoreCompileInputs.cache
+/home/elsherbiny/Downloads/Menu/ClassLibrary1/obj/Debug/net8.0/ClassLibrary1.dll
+/home/elsherbiny/Downloads/Menu/ClassLibrary1/obj/Debug/net8.0/refint/ClassLibrary1.dll
+/home/elsherbiny/Downloads/Menu/ClassLibrary1/obj/Debug/net8.0/ClassLibrary1.pdb
+/home/elsherbiny/Downloads/Menu/ClassLibrary1/obj/Debug/net8.0/ref/ClassLibrary1.dll

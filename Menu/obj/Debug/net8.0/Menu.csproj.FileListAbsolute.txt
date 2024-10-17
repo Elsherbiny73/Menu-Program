@@ -1,0 +1,11 @@
+D:\.NET\Menu\Menu\bin\Debug\net8.0\Menu.deps.json
+D:\.NET\Menu\Menu\bin\Debug\net8.0\Menu.dll
+D:\.NET\Menu\Menu\bin\Debug\net8.0\Menu.pdb
+D:\.NET\Menu\Menu\obj\Debug\net8.0\Menu.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Menu\Menu\obj\Debug\net8.0\Menu.AssemblyInfoInputs.cache
+D:\.NET\Menu\Menu\obj\Debug\net8.0\Menu.AssemblyInfo.cs
+D:\.NET\Menu\Menu\obj\Debug\net8.0\Menu.csproj.CoreCompileInputs.cache
+D:\.NET\Menu\Menu\obj\Debug\net8.0\Menu.dll
+D:\.NET\Menu\Menu\obj\Debug\net8.0\refint\Menu.dll
+D:\.NET\Menu\Menu\obj\Debug\net8.0\Menu.pdb
+D:\.NET\Menu\Menu\obj\Debug\net8.0\ref\Menu.dll
